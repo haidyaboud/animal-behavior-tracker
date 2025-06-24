@@ -1,5 +1,5 @@
 streamlit
-pandas
-numpy
-plotly
 opencv-python
+pandas
+plotly
+ultralytics        ✅ Add this line
